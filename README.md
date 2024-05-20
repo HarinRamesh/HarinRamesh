@@ -1,1 +1,1 @@
-### Hello World 👋, I'm Harin
+### Hello World 👋
